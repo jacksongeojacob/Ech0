@@ -62,9 +62,9 @@ The JavaScript file handles all the core logic, including microphone input, gene
 Just click the mic icon and start talking!
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-<img width="1919" height="1079" alt="Screenshot 2025-08-09 163238" src="https://github.com/user-attachments/assets/515a330f-e61f-46f8-8907-6f2a911f8deb" />
+!<img width="1919" height="1079" alt="Screenshot 2025-08-09 163238" src="https://github.com/user-attachments/assets/515a330f-e61f-46f8-8907-6f2a911f8deb" />(Main Screen)
+*This is our Main Screen for the Chatbot.*
+
 
 
 
