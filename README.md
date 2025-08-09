@@ -69,12 +69,15 @@ Just click the mic icon and start talking!
 <img width="1919" height="1079" alt="Screenshot 2025-08-09 163303" src="https://github.com/user-attachments/assets/c0d114ed-5eb0-4d5d-b3ff-d60aa2ad3da1" />(Input from user.)
 *The User asks "how do you feel today"*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+
+<img width="1919" height="1076" alt="Screenshot 2025-08-09 172428" src="https://github.com/user-attachments/assets/03a29da7-3734-4c08-87b4-470a97a92758" />(Chatbot Response in Hexadecimal)
+*The user gets the response in Audio.*
 
 
 ### Project Demo
 # Video
+
+https://github.com/user-attachments/assets/e33b1bb4-8a98-4089-972c-d2ca5434479d
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
