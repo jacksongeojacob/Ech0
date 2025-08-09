@@ -79,6 +79,9 @@ Just click the mic icon and start talking!
 https://github.com/user-attachments/assets/e33b1bb4-8a98-4089-972c-d2ca5434479d
 *This video demos what the our project does.*
 
+[![Watch the video](thumbnail.png)](https://github.com/user-attachments/assets/e33b1bb4-8a98-4089-972c-d2ca5434479d)
+
+
 
 ## Team Contributions
 - Joyal James
