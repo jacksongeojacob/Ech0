@@ -76,13 +76,9 @@ Just click the mic icon and start talking!
 
 ### Project Demo
 # Video
-
 https://github.com/user-attachments/assets/e33b1bb4-8a98-4089-972c-d2ca5434479d
-[Add your demo video link here]
-*Explain what the video demonstrates*
+*This video demos what the our project does.*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - Joyal James
