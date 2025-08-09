@@ -1,1 +1,1 @@
-# Ech0-A-conversational-interface-between-humans-and-computers
+# Ech0-A conversational interface between humans and computers
