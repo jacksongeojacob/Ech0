@@ -99,5 +99,7 @@ Made with ❤️ at TinkerHub Useless Projects
 See our Project at : 
 https://html-preview.github.io/?url=https://github.com/jacksongeojacob/Ech0/blob/main/index.html
 
+Deployed at :
+https://ech0bot.netlify.app/
 
 
