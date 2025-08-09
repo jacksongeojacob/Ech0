@@ -64,7 +64,9 @@ Just click the mic icon and start talking!
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/jacksongeojacob/Ech0/blob/236806d2eec64c85cb3e153e03e8632777b1a6d9/assets/Screenshots/Screenshot%202025-08-09%20163238.png?raw=true" 
+<img width="1919" height="1079" alt="Screenshot 2025-08-09 163238" src="https://github.com/user-attachments/assets/515a330f-e61f-46f8-8907-6f2a911f8deb" />
+
+
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
